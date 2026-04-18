@@ -24,4 +24,4 @@ Battery management and range estimation simulation using MATLAB.
 - Smart Sensor Node with RTOS   
 
 ## Connect With Me
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://www.linkedin.com/in/jeeva-mithran-99195b289/
