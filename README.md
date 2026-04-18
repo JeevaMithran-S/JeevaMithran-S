@@ -1,9 +1,10 @@
 #Jeeva-Mithran-S
-About Me
+
+
 ECE student focused on Embedded Systems, VLSI, and AI integration.  
 I build real-world hardware + software solutions.
 
-##Tech Stack
+## Tech Stack
 - Languages: Python, C, C++
 - Tools: MATLAB, Arduino, KiCad, Simulink
 - Domains: Embedded Systems, AI, PCB Design
@@ -24,4 +25,3 @@ Battery management and range estimation simulation using MATLAB.
 
 ## Connect With Me
 - LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
